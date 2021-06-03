@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative of the state of the case between John Cromwel Esquire and Abigaile his wife, plaintiffes, Thomas Berney Esquire, and John Awcock Gent. defendants extracted out of the bill, answers, proceedings, and proofes in the Court of Chancery : touching the mannors of Buckenbam-Ferry, and Hassingham, Ornesby Burrough, and Scrotby in the county of Norfolke, heretofore the inheritance of Sir Henry Cleere.</title>
+         </titleStmt>
+         <extent>Approx. 43KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52654</idno><idno type="EEBO-CITATION">11815317</idno>
+  <idno type="VID">49533</idno>
+  <idno type="EEBO-PROQUEST">2248506141</idno>
+  
+            <idno type="STC">Wing N226</idno>
+            <idno type="STC">ESTC R10102</idno>
+            <idno type="OCLC">11815317</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A52654)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49533)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 542:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative of the state of the case between John Cromwel Esquire and Abigaile his wife, plaintiffes, Thomas Berney Esquire, and John Awcock Gent. defendants extracted out of the bill, answers, proceedings, and proofes in the Court of Chancery : touching the mannors of Buckenbam-Ferry, and Hassingham, Ornesby Burrough, and Scrotby in the county of Norfolke, heretofore the inheritance of Sir Henry Cleere.</title>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cromwel, John.</term>
+               <term type="personal_name">Cromwel, Abigaile.</term>
+               <term type="personal_name">Berney, Thomas.</term>
+               <term type="personal_name">Awcock, John.</term>
+               <term type="corporate_name">England and Wales. --  Court of Chancery.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49533:1"/>
+            <pb facs="tcp:49533:1"/>
+            <p>A NARRATIVE OF THE <hi>State of the Case</hi> BETWEEN
+<list>
+                  <item>
+                     <hi>John Cromwel</hi> Esquire, and <hi>Abigaile</hi> his wife, Plaintiffes.</item>
+                  <item>
+                     <hi>Thomas Berney</hi> Esquire, and <hi>John Awcock</hi> Gent. Defendants.</item>
+               </list>
+            </p>
+            <p>
+               <hi>EXTRACTED</hi> Out of the Bill, Answers, Proceedings, and Proofes in the Court of <hi>Chancery.</hi>
+            </p>
+            <p>Touching the Mannors of <hi>Buckenham-Ferry,</hi> and <hi>Hassingham, Ornesby Burrough,</hi> and <hi>Scrotby</hi> in the County of <hi>Norfolke.</hi>
+            </p>
+            <p>Heretofore the Inheritance of Sir <hi>Henry Cleere.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proceedings">
+            <pb facs="tcp:49533:2"/>
+            <pb n="1" facs="tcp:49533:2"/>
+            <head>
+               <list>
+                  <item>John Cromwel <hi>Esquire, and</hi> Abigail <hi>his wife,</hi> Plaintiffs.</item>
+                  <item>
+                     <hi>The Lady</hi> Jane Denny <hi>late widow, now the wife of Sir</hi> William Cony Knight. Defen<g ref="char:EOLhyphen"/>dants.</item>
+                  <item>Tho. Berney <hi>Esquire, and</hi> Dorothy <hi>his wife, and</hi> Joh. Awcocke, <hi>Gent.</hi> Defen<g ref="char:EOLhyphen"/>dants.</item>
+               </list>
+            </head>
+            <head type="sub">The Effect of the Bill.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat 14. <hi>Car.</hi> by Information in the Court of Wards for the Plaintiffe, then a Ward, against <hi>John Smith,</hi> and <hi>John Awcocke,</hi> and other their Trustees, it was charged.</p>
+            <p>That Sir <hi>Henry Cleer</hi> was seised in Fee of the Mannors of <hi>Buckenham-Ferry</hi> and <hi>Ornes<g ref="char:EOLhyphen"/>by</hi> &amp;c. in <hi>Norfolke.</hi> And that <hi>Smith</hi> and <hi>Holl,</hi> when hee was young, got him into severall Mort<g ref="char:EOLhyphen"/>gages, and a Statute of 2000 li. and to mortgage to the lady <hi>Moundford,</hi> and to convey other parts to others, and in his sickness aiming at his whole estate perswaded him to make Assurances of his lands in trust to be sold, pretending there would be provision of 3000 li. for the Lady <hi>Merriel Cleer</hi> his wife, and an overplus for her child.</p>
+            <pb n="2" facs="tcp:49533:3"/>
+            <p>
+               <hi>Aug.</hi> 28. 20. <hi>Jac.</hi> An Assurance was prepared by way of bargaine, and sail for 10000 li. mentioned to be paid by Sir <hi>Hen. Bedingfield,</hi> and others, and sealed to him the said Sir <hi>Hen. Bedingfield,</hi> Sir <hi>Tho. Herne, Tho. Knevett</hi> Esquire, and <hi>Henry Best</hi> Gentleman, and their heirs, which was inrolled.</p>
+            <p>A Declaration of Trust was made at the same time that the lands should be sold within two yeares after Sir <hi>Henry Cleers</hi> death, and the profits to bee received and raised by sale, should bee imployed according to the Trust.</p>
+            <p n="1">1 To permit Sir <hi>Henry Cleer</hi> to take the pro<g ref="char:EOLhyphen"/>fits for lise.
+<note place="margin">The Trust.</note>
+            </p>
+            <p n="2">2 After Sir <hi>Henry</hi> his death, to permit Dame <hi>Merriel Cleere</hi> his wife to receive the profits till sale.</p>
+            <p n="3">3 With the money raised the debts to be paid.</p>
+            <p n="4">4 The debts being paid to pay 3000 li. to Dame <hi>Merriel,</hi> she releasing.</p>
+            <p n="5">5 The overplus to bee delivered to her for the Plaintiffe <hi>Abigail,</hi> or such childe as she should after have.</p>
+            <p>Sir <hi>Henry Cleere</hi> dyed.</p>
+            <p>That <hi>Smith</hi> and <hi>Holl</hi> opposed finding the Office.</p>
+            <p>That <hi>Smith</hi> and <hi>Holl</hi> (and Lady <hi>Cleere</hi>) by their procurement, preferred a Bil in Chancery against Sir <hi>Hen. Bedingfield</hi> and other Trustees to have the lands sold according to the Deeds.</p>
+            <p>Trustees answered, and thereby submit, to do what the Court directs therein.</p>
+            <p>
+               <hi>April</hi> 25. 3. <hi>Car.</hi> the cause was heard upon Bill and Answer.</p>
+            <pb n="3" facs="tcp:49533:3"/>
+            <p>Decreed.</p>
+            <p n="1">1 That the Lands should be sold, and the monies applied according to the Trust.</p>
+            <p n="2">2 To pay debts first.</p>
+            <p n="3">3 A Commission awarded to examine debts.</p>
+            <p n="4">4 A time prefixed for Creditors to come in.</p>
+            <p>That <hi>Smith</hi> and <hi>Holl</hi> kept off Purchasers, declared that the Lands were much incumbred, and <hi>Holl</hi> clai<g ref="char:EOLhyphen"/>med <hi>Buckhenham-Ferry</hi> by a Mortgage, and extended his Statute.</p>
+            <p>
+               <hi>Smith</hi> and <hi>Holl</hi> agreed to give 4000 li. for the purchase, moved the Court to have a reference to Justice <hi>Harvey,</hi> which was ordered.</p>
+            <p>
+               <hi>May</hi> 13. 4. <hi>Car.</hi> That Mr. Justice <hi>Harvey</hi> consi<g ref="char:EOLhyphen"/>dered of the Decree and proceedings, and certified what he thought fit to bee done therein.</p>
+            <p>
+               <hi>Smith</hi> and <hi>Holl</hi> were Justices of Peace in <hi>Norfolke,</hi> had so much credit with Mr. Justice <hi>Harvey,</hi> that he credited what they said without proof upon oath, and certified,</p>
+            <p n="1">1 That the Land was better worth then 4000 li. but in respect of incumbrances,
+<note place="margin">Iudge <hi>Harvies</hi> Certificate.</note> hee thought fit the Trustees convey to <hi>Holl</hi> and <hi>Smith,</hi> who were willing to deale, deducting their owne debts.</p>
+            <p n="2">2 To be detained by <hi>Holl,</hi> due by Mortgage 1700 li.</p>
+            <p n="3">3 By <hi>Smith,</hi> 1000</p>
+            <p n="4">4 Mrs. <hi>Dorothy Moun<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ford,</hi> 900</p>
+            <p n="5">5 The Lady Steward, 150</p>
+            <p n="6">6 <hi>Love,</hi> 100</p>
+            <p n="7">7 <hi>Hughes,</hi> 100</p>
+            <p n="8">8 And 50. li residue of the 4000 li. to the Lady <hi>Merriel Cleere.</hi>
+            </p>
+            <p>
+               <hi>The Certificate was confirmed.</hi>
+            </p>
+            <pb n="4" facs="tcp:49533:4"/>
+            <p>The Trustees made assurance to <hi>Iohn Fountaine</hi> and others in trust for <hi>Smith</hi> and <hi>Holl,</hi> whereby for 4000<hi>li.</hi> they have got 1000<hi>li. per an.</hi>
+            </p>
+            <p>
+               <hi>Smith</hi> and <hi>Holl</hi> compounded incumbrances at easie rates.</p>
+            <p>Sir <hi>Edward Cleer</hi> that had 400 <hi>li. per an.</hi> for his life tooke 200<hi>li, per an.</hi> and forced the Lady <hi>Merriel Cleer</hi> for 400<hi>li. per an.</hi> for life to accept 200<hi>li. per an.</hi> who was then fickly, and dyed within two years.</p>
+            <p>That the allowance to <hi>Holl</hi> for interest was not mo<g ref="char:EOLhyphen"/>derate according to the decree.</p>
+            <p>
+               <hi>Smith</hi> and <hi>Awcocke</hi> two years after bought out <hi>Holls</hi> mortgage for 1200<hi>li.</hi> and <hi>Smiths</hi> debt was not reall.</p>
+            <p>
+               <hi>June</hi> 23. 16 <hi>Car.</hi> Cause was heard in the Court of Wards.</p>
+            <p>Declare that <hi>Smith</hi> and <hi>Holl</hi> were no clear purcha<g ref="char:EOLhyphen"/>sers; therefore decreed they should accompt, and re convey.</p>
+            <p>The Plaintiffe <hi>Abigail</hi> married the other Plain<g ref="char:EOLhyphen"/>tiffe, and an information by way of revivor put in, the defendants <hi>Smith</hi> and <hi>Holl</hi> answered.</p>
+            <p>An accompt put in, but before any accompt per<g ref="char:EOLhyphen"/>fected, the Court of Wards was taken away.</p>
+            <p>After Petitions in Parliament the accompt was re<g ref="char:EOLhyphen"/>ferred to Sir <hi>Benjamin Rudyard,</hi>
+               <note place="margin">Febr. 1645.</note> and Mr. Attorney of the Court of Wards, but after, the whole businesse referred to be determined in Chancery.</p>
+            <p>A third part was, after the office found, settled by injunction of the Court of Wards, upon the Plain<g ref="char:EOLhyphen"/>tiffe <hi>Abigail</hi> heire at law.</p>
+            <pb n="5" facs="tcp:49533:4"/>
+            <p>The charge of the Bill in Chancery was, that <hi>Smith</hi> and <hi>Awcocke</hi> being dead, <hi>Jane Denny,</hi>
+               <note place="margin">The Bill in Chancery:</note> and <hi>Do<g ref="char:EOLhyphen"/>rothy Berney</hi> Daughters, and Heires; and <hi>Tho. Berney, Dorothies</hi> husband, &amp; <hi>Awcock,</hi> son of <hi>Awcock</hi> deceased, received the profits of all the third part allotted by the Court of Wards to <hi>Abigail,</hi> and to have accompt and re-assurance of the lands was the effect of the Bill.</p>
+            <div type="response">
+               <head>The Defendants by Answer set forth.</head>
+               <p>THat 17. <hi>Jac.</hi> The Lands were settled upon Sir <hi>Henry Cleer</hi> charged with severall rents and in<g ref="char:EOLhyphen"/>cumbrances, <hi>viz.</hi>
+               </p>
+               <p n="1">1. One annulty for the life of the said Sir <hi>Edward,</hi> 400<hi>li. per annum</hi>
+               </p>
+               <p n="2">2. One other during the Lady <hi>Meriels</hi> life, if she survived Sir <hi>Henry,</hi> of 400 <hi>li.</hi>
+               </p>
+               <p n="3">3. One other during the life of the said Sir <hi>Edward,</hi> if he survived his wife of, 200<hi>li.</hi>
+               </p>
+               <p n="4">4. One other to Dame <hi>Margaret</hi> his wife, if she survived Sir <hi>Edward,</hi> of 200<hi>li.</hi>
+               </p>
+               <p n="5">5. One other in case Dame <hi>Margarett</hi> dye, and Sir <hi>Edward</hi> marry a second wife for the life of such se<g ref="char:EOLhyphen"/>cond wife, of 200 <hi>li.</hi>
+               </p>
+               <p>Easter Terme. 18 <hi>Jac.</hi> Sir <hi>Henry Cleere</hi> suffereth a Recovery to cut off the intaile.</p>
+               <p>
+                  <hi>Sept.</hi> 10. 18 <hi>Jac.</hi> Sir <hi>Henry</hi> for 100<hi>li.</hi> grans an An<g ref="char:EOLhyphen"/>nuity of 10<hi>li. per annum</hi> to Dame <hi>Abigail Mound<g ref="char:EOLhyphen"/>ford</hi> issuing out of part of <hi>Buckenham.</hi>
+               </p>
+               <pb n="6" facs="tcp:49533:5"/>
+               <p>
+                  <hi>June</hi> 20. 19 <hi>Iac.</hi> Sir <hi>Henry</hi> for 1000<hi>li.</hi> borrowed of Mr. <hi>Holl,</hi> mortgaged a moiety of the mannor of <hi>Buck<g ref="char:EOLhyphen"/>enham,</hi> to pay 1100<hi>li. Iuly</hi> 1622. and enters a recog<g ref="char:EOLhyphen"/>nizance of 2000<hi>li.</hi> additionall security.</p>
+               <p>
+                  <hi>Iuly</hi> 5. 19 <hi>Iac.</hi> Sir <hi>Henry</hi> for 800<hi>li.</hi> borrowed of Mrs. <hi>Dorothy Moundford</hi> mortgages the residue of the said Mannor of <hi>Buckenham</hi> to pay 880<hi>li. July</hi> 8. 1622.</p>
+               <p>Another mortgage to <hi>Love</hi> for 100<hi>li.</hi> besides divers Iudgements and other Debts.</p>
+               <p>
+                  <hi>Iune</hi> 1621. 19. <hi>Iac.</hi> An Agreement, that Sir <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> hold <hi>Ornesby</hi> in liew of his annuity of 400<hi>li. per an.</hi> made by him and Sir <hi>Henry</hi> his son.</p>
+               <p>
+                  <hi>Aug.</hi> 18. 20 <hi>Iac.</hi> Sir <hi>Henry</hi> having thus charged his estate falls sicke, and in the time of his sicknesse, by his Indenture conveys all the premises for the con<g ref="char:EOLhyphen"/>sideration of 10000<hi>li.</hi> paid to Sir <hi>Henry Bedingfield</hi> Sir <hi>Tho. Herne, Tho. Knevet Esq;</hi> and <hi>Henry Best</hi> gent. and their heires.</p>
+               <p>The Indenture is inroled.</p>
+               <p>And by another Deed of the same date declares the trust of the sale to be.</p>
+               <p n="1">1. That the Trustees within two yeares after his death sell the premises at the best price.</p>
+               <p n="2">2. Till sale, his Lady to receive the profits to<g ref="char:EOLhyphen"/>wards payment of his debts.</p>
+               <p n="3">3. His debts to be paid with the money raised by the sale.</p>
+               <p n="4">4. After debts paid, his Lady to have 3000 <hi>li.</hi> in liew of her annuity of 400<hi>li. per an.</hi>
+               </p>
+               <p n="5">5. The residue to be for the now Plaintiffe <hi>Abigail</hi> then an Infant, and within two or three dayes after Sir <hi>Henry</hi> dyed.</p>
+               <pb n="7" facs="tcp:49533:5"/>
+               <p>After Sir <hi>Henry Cleers</hi> death the Trustees offer the premises to sale, but in respect of the incumbrances none would deale, and the interruptions of Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Cleer;</hi> the lands being but 554<hi>li.</hi> 12<hi>s.</hi> 8<hi>d: per an.</hi>
+               </p>
+               <p>The Lady <hi>Merriell Cleer</hi> by some order made by the Lord <hi>Hobart,</hi> between Sir <hi>Edward</hi> and the Lady,
+<note place="margin">The Lady <hi>Cleers</hi> Letter.</note> she was to injoy <hi>Buckenham,</hi> which she offered to let for 250<hi>l. per an.</hi> in liew of her annuity of 400<hi>l. per an.</hi> in respect of the incumberances charged thereupon by Sir <hi>Edward,</hi> and for his debts, nothing she made of it in two years.</p>
+               <p>
+                  <hi>Aug.</hi> 13. 22 <hi>Jac.</hi> The Lady <hi>Moundford</hi> and Mr.
+<note place="margin">First intended purchase by <hi>Holl</hi> and <hi>Smith</hi> within the time limited by the deed of Trust.</note>
+                  <hi>Smith</hi> being bound for Sir <hi>Henry Cleers</hi> debts, which came to about 600<hi>l.</hi> and Mr. <hi>Holls</hi> debts being 1200<hi>l.</hi> they were contented to take a conveyance of the re<g ref="char:EOLhyphen"/>version of the Mannor of <hi>Ornesby</hi> at 2000<hi>l.</hi> and a con<g ref="char:EOLhyphen"/>veyance was drawn and sealed, but not inroled; some of the Trustees being fearfull to bee questioned be<g ref="char:EOLhyphen"/>cause of the great disproportion between what the Land was then really worth, and what Sir <hi>Hen. Cleer</hi> esteemed it at.</p>
+               <p>
+                  <hi>Novem.</hi> 8. 22 <hi>Jac.</hi> Sir <hi>Edward Cleer</hi> for 400<hi>l.</hi> fine, and 200<hi>l. per an.</hi> demiseth <hi>Ornesby, &amp;c.</hi> to <hi>Claxton</hi> and <hi>Howard,</hi> in trust for <hi>Smith,</hi> for 40 years, if hee so long live.</p>
+               <p>Hillary terme 22. <hi>Jac.</hi> the Lady <hi>Moundford,</hi> the Lady <hi>Cleere,</hi> Mr. <hi>Smith,</hi> and other creditors of Sir <hi>Hen. Cleer,</hi> exhibite their Bill in the court of Chan<g ref="char:EOLhyphen"/>cery against the Trustees to compell them to sell.</p>
+               <p>In prosecution whereof the Lady <hi>Moundford</hi> was cheife, and did prefer her Bill into Parliament, to have the land sold.</p>
+               <p>Easter Tearm, 1 <hi>Car.</hi> The Feoffees answer, and the
+<pb n="8" facs="tcp:49533:6"/>reason why they did not fell, was the disproportion of the value, were willing to do as the Court should direct</p>
+               <p>
+                  <hi>Maii</hi> 30. 1. <hi>Car.</hi> The Court directs a Commission to issue to Sir <hi>John Corbet,</hi> Sir <hi>John Holland,</hi> Sir <hi>John Henningham</hi> and Sir <hi>Robert Gaudy.</hi>
+               </p>
+               <p n="1">1 To examine the value of the Lands upon oath.</p>
+               <p n="2">2 The incumbrances and debts.</p>
+               <p n="3">3 To procure a Purchaser.</p>
+               <p>Commissioners certifie the Annuities and Debts as aforesaid,
+<note place="margin">Commissioners Certificate.</note>
+                  <hi>viz.</hi>
+               </p>
+               <p n="1">1 The Mortgage to <hi>Holl.</hi>
+               </p>
+               <p n="2">2 The Mortgage to Mrs. <hi>Dorothy Moundford.</hi>
+               </p>
+               <p n="3">3 The Mortgage to the Lady <hi>Steward,</hi> Lady <hi>Moundsords</hi> Rent charge, <hi>Loves</hi> Mortgage, and Five Judgements of 800 li.</p>
+               <p n="4">4 <hi>Greens</hi> Farme leased to the Lady <hi>Moundford,</hi> and <hi>Smith</hi> to secure them against debts, they were ingaged for Sir <hi>Henry Cleere,</hi> which came to about 700 li. all paid by Mr. <hi>Smith.</hi> (save <hi>Claxtons.</hi>)</p>
+               <p n="5">5 The Mannors and premises to bee worth 554 li. 12 s. 8 d. <hi>per annum, viz.</hi>
+                  <list>
+                     <item>
+                        <hi>Ornesby Burrough,</hi> and <hi>Scrotby,</hi> 288 li. 16 s. 0 d.</item>
+                     <item>
+                        <hi>Buckenham-Ferry</hi> and <hi>Hassingham,</hi> 265 li. 16 <hi>s.</hi> 8 d.</item>
+                  </list>
+               </p>
+               <p n="6">6 That in respect of the great Incumbrances, and the waste committed by Sir <hi>Edward,</hi> they could not procure a Purchaser.</p>
+               <p>
+                  <hi>Decem.</hi> 1. 2 <hi>Car.</hi>
+                  <note place="margin">Second inten<g ref="char:EOLhyphen"/>ded Purchase of <hi>Smith.</hi>
+                  </note> The Court upon that Certifi<g ref="char:EOLhyphen"/>cate, order a Commission to set forth a Moyety of the Mannor of <hi>Ornesby</hi> to Mr. <hi>Smith,</hi> and to make up his debt of 730 li. 1000 li. for the purchase thereof.</p>
+               <p>Nothing was done thereupon.</p>
+               <p>The 25 of <hi>April,</hi> 3 <hi>Car.</hi> upon hearing of the
+<pb n="9" facs="tcp:49533:6"/>cause, the Court decreed the Feoffees to sell.</p>
+               <p>This Decree was inrolled 11 <hi>Maii;</hi> and no pur<g ref="char:EOLhyphen"/>chaser would deal in respect of Incumbrances.</p>
+               <p>
+                  <hi>May</hi> 13. 4 <hi>Car.</hi> The Court being informed that by reason of incumbrances, above 4000<hi>li.</hi> could not be got for all the lands, and that Mr. <hi>Smith</hi> and <hi>Holl</hi> would give so much, so as they might defaulk their debts. The Court ordered that,</p>
+               <p n="1">1. Mr. Iustice <hi>Harvey</hi> consider of the Decree.</p>
+               <p n="2">2. Direct the Assurances.</p>
+               <p n="3">3. How the 4000<hi>l.</hi> should be disposed of.</p>
+               <p n="1">1. <hi>June</hi> 19. 4 <hi>Car.</hi>
+                  <note place="margin">Judge <hi>Harvies</hi> Certisicate.</note> The Iudge certifies that in re<g ref="char:EOLhyphen"/>of incombrances 4000 <hi>l.</hi> was the best price.</p>
+               <p n="2">2. The Trustees to convey to <hi>Holl</hi> and <hi>Smith.</hi>
+               </p>
+               <p n="3">3. To retaine to <hi>Holl</hi> 1700<hi>li.</hi>
+               </p>
+               <p n="4">4. To <hi>Smith</hi> 1000<hi>li.</hi>
+               </p>
+               <p n="5">5. To pay Mis. <hi>Moundford</hi> 900<hi>li.</hi>
+               </p>
+               <p n="6">6. To Lady <hi>Steward.</hi> 150<hi>li.</hi>
+               </p>
+               <p n="7">7. The Lady <hi>Mar. Cleer</hi> to have 200 <hi>l. per an.</hi> for life.</p>
+               <p n="8">8. The Lady <hi>Merriell Cleer</hi> to have <hi>Buckenham</hi> for her life, in liew of her annuity of 400 <hi>l. per an.</hi> and to grant an annuity out of it to <hi>Holl,</hi> &amp;c.</p>
+               <p>The Lady was content rather to accept 200 <hi>li. per an.</hi> then <hi>Buckenham, which was paid her.</hi>
+               </p>
+               <p>
+                  <hi>The</hi> 21. and 22 <hi>July,</hi> 4 <hi>Car.</hi> The Iudges report con<g ref="char:EOLhyphen"/>firmed.</p>
+               <p>
+                  <hi>Holl</hi> and <hi>Smith</hi> drew Mr. <hi>Awcock</hi> to joyn with them in the purchase.</p>
+               <p>
+                  <hi>Aug.</hi> 31. 4 <hi>Car.</hi>
+                  <note place="margin">The purchase of the whole under the De<g ref="char:EOLhyphen"/>cree in Chance<g ref="char:EOLhyphen"/>ry.</note> The Trustees in pursuance of the orders, &amp;c. convey to <hi>Fountaine, Aldridge,</hi> and <hi>Sotherton</hi> (persons trusted by <hi>Holl, Smith,</hi> and <hi>Awcock.</hi>)</p>
+               <pb n="10" facs="tcp:49533:7"/>
+               <p>The 25 <hi>Sep.</hi> following, they pay the money direct<g ref="char:EOLhyphen"/>ed to Mis. <hi>Mundford</hi> and others, who released to <hi>Foun<g ref="char:EOLhyphen"/>taine, Aldridge,</hi> and <hi>Sotherton.</hi>
+               </p>
+               <p>
+                  <hi>Love</hi> would not take his 100<hi>l.</hi> but held the Land mortgaged, nor could <hi>Hughes</hi> be found to accept his 100<hi>l.</hi> and discharge the Iudgement.</p>
+               <p>
+                  <hi>Sept.</hi> 30.
+<note place="margin">☞</note> 6 <hi>Car.</hi> Mr. <hi>Holl</hi> falling sick, gives his third part by his Wil to his Wife, or 1000<hi>l.</hi> in liew there<g ref="char:EOLhyphen"/>of, she accepts the 1000<hi>l.</hi> and <hi>Holls</hi> two sonnes for 1230<hi>li.</hi> sells it to <hi>Smith</hi> and <hi>Awcocke</hi> two yeares af<g ref="char:EOLhyphen"/>ter.</p>
+               <p>
+                  <hi>Nov.</hi> 22. 8. <hi>Car.</hi> The Lady <hi>Merriell Cleer</hi> dyed, being thirty years of age or thereabouts.</p>
+               <p>In the yeare 1634. 10. <hi>Car.</hi> Sir <hi>Edw. Cleer</hi> dyed, his Lady living, who had 200<hi>l. per an.</hi> for her life who dyed not above two years since.</p>
+               <p>The Lady <hi>Cleer,</hi> and Sir <hi>Edward</hi> being dead, and their annuities thereby determined.</p>
+               <p>Hillary Term following, an information was exhi<g ref="char:EOLhyphen"/>bited in the Court of Wards against <hi>Smith</hi> and <hi>Aw<g ref="char:EOLhyphen"/>cocke.</hi>
+               </p>
+               <p>Michaelmas Tearm, 1637. The office found, and the Mannor of <hi>Ornesby</hi> to be held in capite.</p>
+               <p>At the finding of this office,
+<note place="margin">
+                     <hi>Colfer,</hi> and <hi>Pay<g ref="char:EOLhyphen"/>nell</hi> Councel<g ref="char:EOLhyphen"/>lers at Law.</note> the Defendants evi<g ref="char:EOLhyphen"/>dence was rejected, proved by <hi>Colfer,</hi> and <hi>Paynell.</hi>
+               </p>
+               <p>Severall motions made to be admitted to traverse, or to have a <hi>Melius inquirendum</hi> but without successe.</p>
+               <p>
+                  <hi>May</hi> 20. 1638. A Division made, and the third part set out, and the profits received.</p>
+               <p>Easter Tearm 14 <hi>Car.</hi> Another information ex<g ref="char:EOLhyphen"/>hibited against <hi>Smith</hi> and <hi>Awcocke,</hi> wherein is sugge<g ref="char:EOLhyphen"/>sted that <hi>Smith</hi> and <hi>Holl</hi> unduely drew Sir <hi>Hen. Cleer</hi>
+                  <pb n="11" facs="tcp:49533:7"/>into great debts, to mortgage the greatest part of his estate to them, and that they procured him upon his death bed, to make the conveyance to Sir <hi>Hen. Bed<g ref="char:EOLhyphen"/>ingfield,</hi> &amp;c. and pretending a Trust, prayed an account of the profits.</p>
+               <p>The Defendants by Answer set forth the former proceedings in Chancery.</p>
+               <p>Trinity Terme 16. <hi>Car.</hi> the cause came to hearing in the Court of Wards, And</p>
+               <p>DECREED,</p>
+               <p>That in as much as <hi>Smith</hi> and <hi>Holl</hi> were the prin<g ref="char:EOLhyphen"/>cipall Agents in procuring the Deed to be made by Sir <hi>Hen. Cleer</hi> to Sir <hi>Hen. Bedingfield,</hi> &amp;c. and that the Court conceived that <hi>Holl, Smith,</hi> and <hi>Awcocke</hi> were not clear purchasers, therefore decreed them to ac<g ref="char:EOLhyphen"/>count and re-convey.</p>
+               <p>
+                  <hi>Octo.</hi> 30. 1646. In pursuance wherof accounts were ex<g ref="char:EOLhyphen"/>hibited, but before re-conveyance the Court of Wards being taken away, both parties applied themselves to the Parliament, and by an order of Parliament the whole Matter referred to the Court of Chancery.</p>
+               <p>Hillary Term following the Plaintiffs exhibite their Bil against <hi>Smith</hi> and <hi>Awcocke,</hi>
+                  <note place="margin">Plaintiffes Bill; in Chancery.</note> and set forth the whole proceedings in the Court of Wards, &amp; that they can<g ref="char:EOLhyphen"/>not by power of that Court (it being down) enforce obedience to the Decree, but for releife appeale to the Court of Chancery according to the order of Parliament, and that the Defendants may set forth how they hold the said lands, may make re-assurance according to equity and intent of the said Decree, and that by Decree of the said Court they may re<g ref="char:EOLhyphen"/>ceive releife, in all and every the premises.</p>
+               <pb n="12" facs="tcp:49533:8"/>
+               <p>The Defendants answered,
+<note place="margin">The Defen<g ref="char:EOLhyphen"/>dants Answer</note> and thereby set forth the purchase under the Decree of the Court of Chancery, and the truth of their case, and that they conceived their Inheritance ought not to bee bound by the proceedings in the Court of Wards, there be<g ref="char:EOLhyphen"/>ing no Tenure in capite, nor any trust proved, but that they were clear Purchasers under the Decree of the Court of Chancery, not subject to any trust or ac<g ref="char:EOLhyphen"/>compts, and that there was not any question made till the annuities and other charges for lives ended, and desired they mighe not be prejudiced by the un<g ref="char:EOLhyphen"/>just proceedings in the Court of Wards against which they complained in Parliament.</p>
+               <p>
+                  <hi>May</hi> 6. 1650. the cause came to bee heard (though the Plaintiffe Mr. <hi>Cromwel</hi> had not taken the Ingage<g ref="char:EOLhyphen"/>ment, which was moved to stay proceedings, but dis<g ref="char:EOLhyphen"/>allowed, (the Court not being full) and a Decretall Order pronounced whereby it was declared.</p>
+               <p n="1">1. That <hi>Holl</hi> and <hi>Smith</hi> were the originall Tru<g ref="char:EOLhyphen"/>stees of Sir <hi>Hen. Cleer.</hi>
+               </p>
+               <p n="2">2. That the estate they claimed, was by them gained from Sir <hi>Henry Cleer</hi> in the extremity of his sicknesse, upon pretence that the Plaintiffe should be provided for, and the debts paid.</p>
+               <p n="3">3. That the Decree and conveyances whereby they would make themselves Purchasers, were obtained upon false informations, irregular proceedings, and in abuse of the Court.</p>
+               <p>And the Lords Commission, that were then present</p>
+               <p>DECREED,</p>
+               <p n="1">1.
+<note place="margin">The last De<g ref="char:EOLhyphen"/>cree of Court of Chancery.</note> That the conveyances obtained by <hi>Holl, Smith,</hi> and <hi>Awcock</hi> be set aside.</p>
+               <pb n="13" facs="tcp:49533:8"/>
+               <p n="2">2 The Defendants being paid and satisfied, what shall appeare to have been really disbursed by <hi>Holl Smith</hi> and <hi>Awcocke,</hi> or due to them from Sir <hi>Hen. Cleere,</hi> discounting meane profits with damages, shall re-convey.</p>
+               <p n="3">3 That the Accompts be referred to Mr. <hi>Rich</hi> and Mr. <hi>Hackwel.</hi>
+               </p>
+               <p n="4">4 It was ordered that if the Defendants will keep possession, they shall give security, or else the Plain<g ref="char:EOLhyphen"/>tiffes giving security to pay what shall be due to the defendants upon Accompt, shall have the posses<g ref="char:EOLhyphen"/>sion. Which Decree was signed and inrolled.</p>
+               <p>After some Orders the Defendants gave se<g ref="char:EOLhyphen"/>curity accordingly to secure the meane profits, since the Decree.</p>
+               <list>
+                  <item>
+                     <hi>Berney</hi> gave Recognizance of 1000 Marks.</item>
+                  <item>
+                     <hi>Awcocke</hi> gave Recognizance of 1000 li.</item>
+               </list>
+               <p>
+                  <hi>Julii</hi> 18. 1650. Ordered a Commission issue into the Country to examine and cleer the Account re<g ref="char:EOLhyphen"/>turnable the first of <hi>October.</hi>
+                  <note place="margin">Subsequent proceedings in Court after the Decree.</note>
+               </p>
+               <p>The Plaintiffes had the carriage of the Commis<g ref="char:EOLhyphen"/>sion, and 16. of September, was the first day of the Commissioners meeting, and they spent foure dayes time, and could attend no longer.</p>
+               <p>Upon oath made that the Defendants had divers witnesses which for want of time, could not be exa<g ref="char:EOLhyphen"/>mined.</p>
+               <p>
+                  <hi>Octob.</hi> 18. 1650. Ordered the Defendants deli<g ref="char:EOLhyphen"/>ver the names of their witnesses and places of abode, and examine them in Court within three weeks.</p>
+               <p>Names were given, and it was moved for the De<g ref="char:EOLhyphen"/>fendants
+<pb n="14" facs="tcp:49533:9"/>in respect of the shortnesse of time, the distance of place, and many witnesses, that Com<g ref="char:EOLhyphen"/>mission might issue to e<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mine them all in the Country.</p>
+               <p>
+                  <hi>Novem.</hi> 7. 1650. Ordered the Defendants have a Commission to examine onely those that could not travel without danger of life, and it was Ordered that the Rents bee brought into Court, and the security given by <hi>Berney</hi> and <hi>Awcocke,</hi> discharged.</p>
+               <p>
+                  <hi>Decem.</hi> 2. 1650. When the Court had denied a Commission to examine any other witnesses, but such as were unable to travell; one of the Plaintiffes counsel consented,
+<note place="margin">Mr. Chute.</note> and it was ordered that the De<g ref="char:EOLhyphen"/>fendants should have a Commission to examine all their witnesses by the first day of the next Terme.</p>
+               <p>
+                  <hi>Maii</hi> 6. 1651. The Masters by report desire the directions of the Court concerning the time of the rise of the Account.</p>
+               <p n="1">1 Whether <hi>Bernies</hi> Accompt should begin <hi>Michaelmas</hi> 1624. or <hi>Michaelmas</hi> 1628.</p>
+               <p n="2">2 Whether <hi>Awcocks</hi> Account should begin <hi>Mi<g ref="char:EOLhyphen"/>chaelmas</hi> 1628. or <hi>Michaelmas</hi> 1633.</p>
+               <p>The Court differed in opinion, but it was then Ordered that <hi>Berney</hi> should accompt from 1624.</p>
+               <p>
+                  <hi>Awcocke</hi> from 1628.</p>
+               <p>Notwithstanding they both claimed under estates for life, precedent to the Deed of Trust to whom (<hi>sc.</hi> to Sir <hi>Edward Cleere,</hi> and Lady <hi>Merriel Cleere</hi>) the Plaintiffe was neither Executor, nor Admini<g ref="char:EOLhyphen"/>strator.</p>
+               <pb n="15" facs="tcp:49533:9"/>
+               <p>After a long attendance upon the Masters, and hearing Councel on both sides, Mr. <hi>Rich</hi> certifies due
+<table>
+                     <row>
+                        <cell>To <hi>Awcocke</hi>
+                        </cell>
+                        <cell>3099 li.</cell>
+                        <cell>10 s.</cell>
+                        <cell>4 d.</cell>
+                     </row>
+                     <row>
+                        <cell>To <hi>Berney</hi>
+                        </cell>
+                        <cell>1838. li.</cell>
+                        <cell>05. s.</cell>
+                        <cell>4. d.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Mr. <hi>Hackwil</hi> differs, and certifies by way of ex<g ref="char:EOLhyphen"/>ception to Mr. <hi>Rich</hi> his report.</p>
+               <p>
+                  <hi>June</hi> 23. 1651.
+<note place="margin">See the Affida<g ref="char:EOLhyphen"/>vit against Hackwel.</note> Upon debate concerning both Reports (the Court not being full) 1000 li. was dis-allowed, which was certified to bee laid out in improvements, and 728 li. for repayres to <hi>Awcocke,</hi> and not any depositions permitted to be read for ma<g ref="char:EOLhyphen"/>king it out, though offered.</p>
+               <p>And concerning <hi>Holls</hi> 1000 li. secured by Statute, it was ordered, no more be allowed then was really paid with damages, though the sum was ascer<g ref="char:EOLhyphen"/>tained by defeizance two and thirty yeers since, and the Defendants being strangers.</p>
+               <p>
+                  <hi>Julii</hi> 11. 1651. Upon suggestion that the De<g ref="char:EOLhyphen"/>fendants delayed the Accompt, the Court decreed the possession to the Plaintiffe, although it was then offered by the Defendants in Court, to prevent the taking away of possession, that the Plaintiffes should have all the Accruing profits of the said state giving security.</p>
+               <p>And although it was then offered likewise by the Defendants in Court, that the whole accompts should be referred to any of the Plaintiffes counsel, the same was not excepted.</p>
+               <p>The Plaintiffes have by the said order gained the possession, and the Defendants have neither land nor money, nor any security given, as the Decree di<g ref="char:EOLhyphen"/>rected.</p>
+               <p>The Truth hereof appears by the pleadings, and other proceedings.</p>
+               <pb n="16" facs="tcp:49533:10"/>
+               <p>THe Defendants conceive upon the whole mat<g ref="char:EOLhyphen"/>ter they are very strictly dealt withall,
+<note place="margin">The Grie<g ref="char:EOLhyphen"/>vance.</note> both in respect of the nature of their case, and the pro<g ref="char:EOLhyphen"/>ceedings.</p>
+               <p>They were not the parties trusted, but Sir <hi>Henry Bedingfield,</hi> Sir <hi>Tho. Herne, Tho. Knevet</hi> Esq. and <hi>Hen. Best</hi> Gent. who were, and are kindred and friends of the Plaintiffe; some of them having been trusted and imployed upon settlement of the estate, between Sir <hi>Ed. Cleere,</hi> and Sir <hi>Henry</hi> his son, upon marriage of the said Sir <hi>Henry,</hi> with Lady <hi>Merriel,</hi> the Plain<g ref="char:EOLhyphen"/>tiffes mother.</p>
+               <p>What was done, was, when Sir <hi>Hen. Cleere</hi> was of perfect understanding, and done to a just end, to have the land that was much incumbred, sold within two yeares to pay debts.</p>
+               <p>The Contracts that <hi>Smith</hi> and <hi>Holl</hi> made, was af<g ref="char:EOLhyphen"/>ter by faire and due proceedings approved by the Court, and there was a Decree that the land should bee sold, after a valuation was made by Gentlemen of very good account, by force of a Commission di<g ref="char:EOLhyphen"/>rected to, and executed by Sir <hi>Joh. Holland,</hi> Sir <hi>Joh. Henningham,</hi> Sir <hi>Joh. Corbet,</hi> and Sir <hi>Robert Gaudy</hi> Commissioners. And after upon a Judges Certi<g ref="char:EOLhyphen"/>ficate that 4000 li. was the highest value could bee got for the Land, considering the present charges and incumbrances.</p>
+               <p>And there was nothing then done, but if the same were now to bee done, it is humbly conceived in the usuall course of Justice would be done.</p>
+               <p>For all the yeerly payments, the debts due by Mortgage and Statute that were reall charges upon the Land, ought to be allowed.</p>
+               <pb n="17" facs="tcp:49533:10"/>
+               <list>
+                  <item>The value of the lands then was but <hi>per an.</hi> 554li. 12s. 8d.</item>
+                  <item>Charges were for two lives 800li.</item>
+                  <item>Charges in Reversion, besides other contingencies 200li.</item>
+                  <item>Debts charged above 4000 li.</item>
+               </list>
+               <p>THere was no false Informations, no Irregular pro<g ref="char:EOLhyphen"/>ceedings, no abuse to the Court; but upon the strictestexamination the proceedings in the former cause, whereupon a Decree was gained in the Lord <hi>Coventries</hi> time, will appear to be just, and if by negligence of a Clerks Bill an answer be mis-layed, yet a Decree signed, and inroled, and executed, is not to bee avoided: And the Defendants Ancestors were purchasers of Reversions, clogged and charged with incumbrances, but were encou<g ref="char:EOLhyphen"/>raged by the Decree of the Court to purchase, and the Trustees sold to them by force of the Decree.</p>
+               <p>
+                  <hi>Smith Holl,</hi> and <hi>Awcocke</hi> were purchasers under the Decree, they thought they had a hard bargaine.</p>
+               <p>
+                  <hi>Holls</hi> part was left by his Will to his wife, or 1000 li. she made choice of the 1000li. which proves it not to be worth the third part of 4000 li. and <hi>Holls</hi> sons paid her the 1000 li. and sold the Reversion to <hi>Smith</hi> and <hi>Awcock,</hi> for 1230 li. which was lesse then the summe allowed by Judge <hi>Harvies</hi> report by 470 li.</p>
+               <p>
+                  <hi>Smith</hi> agreed with the said Sir <hi>Edw. Cleere</hi> for his Inte<g ref="char:EOLhyphen"/>rest for life.</p>
+               <p>
+                  <hi>Awcocke</hi> tooke a Lease from the Lady <hi>Merriel Cleere</hi> for her life.</p>
+               <p>
+                  <hi>Awcocke</hi> was a stranger to all the proceedings, but was encouraged by the Decree to purchase.</p>
+               <p>The estate was much out of heart, and at his charge his part of the premises, is improved above a third part, be<g ref="char:EOLhyphen"/>sides charges in building, and repaire.</p>
+               <pb n="18" facs="tcp:49533:11"/>
+               <p>And when <hi>Awcocke</hi> purchased, it was with the free consent of the Lady <hi>Moundford,</hi> the Lady <hi>Steward,</hi> and the Lady <hi>Merriel Cleer</hi> the Plaintiffes mother.</p>
+               <p>And yet the Testimony of the Lady <hi>Moundford,</hi> and Lady <hi>Steward</hi> is the chiefe ground of the last Decree.</p>
+               <p>And upon the hearing in the Court of Wards it was declared that neither the said <hi>Holl</hi> or <hi>Smith</hi> were guilty of any fraud or practise.
+<note place="margin">
+                     <hi>See the Lady Moundfords</hi> Letter.</note>
+               </p>
+               <p>If there were any breach of Trust, the parties trusted (if guilty) ought to bee condemned, and not the pur<g ref="char:EOLhyphen"/>chasers, who have no more to doe, but to look to their as<g ref="char:EOLhyphen"/>surances, and pay their money, which was done by dis<g ref="char:EOLhyphen"/>charging Statutes, Mortgages, and other, wise as was di<g ref="char:EOLhyphen"/>rected by a Judge, warranted by order of the Court, a<g ref="char:EOLhyphen"/>gainst which Judge nothing was ever objected of cor<g ref="char:EOLhyphen"/>ruption, nor any practise proved since his death. Nor was there any question made in seven years, til the estates for lives, and the charges determined, and when by acci<g ref="char:EOLhyphen"/>dent after seven yeers that the bargain proved a good bargain, then, and not before the Suite in the Court of Wards was commenced, wherein the proceedings were unusuall, if not unjust.</p>
+               <p>It is a President of a dangerous consequence, that Heirs and Assigns of purchasers (as the Defendants are) should be questioned, and forced to accompt after such a length of Time.</p>
+               <p>And it is conceived that if Tenant for life, or one that hath a Rent for life, and after the Reversion is sold, and hee agree with the Reversioner for his own estate, though the Grantee of the Reversion get a good Bar<g ref="char:EOLhyphen"/>gain, yet the Heire, if he were intituled to an Equity, shall never have any abatement in respect of the Pur<g ref="char:EOLhyphen"/>chasers good bargaine; but the charge shall continue as good a charge upon the Lands (as to the Heire) as it was in the Ancestors time.</p>
+               <p>Yet the Court hath directed otherwise)</p>
+               <pb n="19" facs="tcp:49533:11"/>
+               <p>By the Decree made upon the hearing, the Defendants were to have the money that upon account should bee due, and then part with the possession and re-assure.</p>
+               <p>But though the money reported, being 5000 li. and more is not paid, (that not being the third part of what is really due) yet possession is taken away contrary to the very Decree, signed, and inrolled, which is very un<g ref="char:EOLhyphen"/>usual and scarce to bee matched with a president, espe<g ref="char:EOLhyphen"/>cially the Defendants being in no default, but having gi<g ref="char:EOLhyphen"/>ven security as the Decree directs, yet by Order subse<g ref="char:EOLhyphen"/>quent to the Decree, the security discharged, and pos<g ref="char:EOLhyphen"/>session given away, so as the Defendants are without re<g ref="char:EOLhyphen"/>medy, which is the more strange, in respect, as they con<g ref="char:EOLhyphen"/>ceive a Trustee or Mortgagee that is in possession is not in Equity, to part with the possession till the money due be paid.</p>
+               <p>And the proceedings were very strict, and the usuall liberty of Examination not admitted.</p>
+               <p>The Defendants therefore humbly propose that for their relief in Justice, these things may be done.</p>
+               <p n="1">1 THat the first Decree in Court signed, and inrol<g ref="char:EOLhyphen"/>led may stand, and that their Interests that claime under it as purchasers may be held and injoyed.</p>
+               <p n="2">2 That nothing be demanded from them but the pur<g ref="char:EOLhyphen"/>chase money, which they are ready to give cleer satis<g ref="char:EOLhyphen"/>faction that it is all paid.</p>
+               <p n="3">3 That the former Decree that hath been executed, may not be reversed, or avoided but by Bill of Renew, &amp; not by an original Bil brought by one that was no party.</p>
+               <p n="4">4 That the precedent estates ought not to be questioned being absolute, and setled upon just and valuable consi<g ref="char:EOLhyphen"/>derations, precedent in time, to the practise that is pre<g ref="char:EOLhyphen"/>tended.</p>
+               <pb n="20" facs="tcp:49533:12"/>
+               <p n="5">5 That the Accompts (if any be) should not bee of any other estate then what was conveyed, which was of Re<g ref="char:EOLhyphen"/>versions, not of Lands in possession, when the same fell, and not before.</p>
+               <p n="6">6 That the Defendants being Heirs and Assignes of Purchasers under the Decree of the Court, ought not to bee questioned after three and twenty yeers and more, no question being made till the estates fell.</p>
+               <p n="7">7 And if there were any ground to have any re-assu<g ref="char:EOLhyphen"/>rance, or accompt (which they conceive ought not to bee) yet that the possession ought to bee restored to the Defendants, and not be taken from them, till all the mony and damages, which was really due, and disbursed, be paid.</p>
+            </div>
+            <div type="epitome">
+               <head>An Epitome of the whole Case stated.</head>
+               <p>SIR, <hi>Edward Cleer</hi> Tenant for life of part, the Reversion to Sir <hi>Hen. Cleer,</hi> mortgaged part of the Lands held in Fee-simple, and charged the same with a Joynture, and with Rents for two several lives, and was indebted by Mortgages, Statute, and otherwise, for which the Lady <hi>Moundford,</hi> and <hi>Joh. Smith</hi> Esq. were bound.</p>
+               <p>By Deed inrolled for 10000 li. mentioned to be paid, bargaines, and sels to Sir <hi>Hen. Bedingfield,</hi> and others, and their Heires, and by a Deed dated at the same time, the Trust is declared, that the Lands should be sold at the best value within two yeers, and that with the Rents, Profits, and Purchase-money, debts should be paid, and 3000 li. raised for his Lady in lieu of her Joynture, and the over-plus to come to the Heire, the Plaintiffe <hi>Abigail.</hi>
+               </p>
+               <p>The Trustees endeavour to sell, but cannot.</p>
+               <p>Some Creditors desire to purchase, but in respect of Incumbrances will not give so much, as Sir <hi>Hen. Cleer</hi> estimates it to be in value.</p>
+               <p>The Trustees were loath to sell at any lower value.</p>
+               <p>
+                  <hi>Smith</hi> a Creditor for 400 li. purchaseth a Lease from Sir <hi>Edw. Cleer</hi> for forty yeers, if Sir <hi>Edward</hi> so long live, at 200 li. <hi>per annum</hi> the Lands being of better value.</p>
+               <pb n="21" facs="tcp:49533:12"/>
+               <p>The Lady <hi>Moundford, Smith,</hi> and other Creditors, preferre a Bill into Chancery against Sir <hi>Hen. Bedingfield,</hi> and the other Tru<g ref="char:EOLhyphen"/>stees, and against <hi>Tho. Holl</hi> to have the Land sold according to the Trust.</p>
+               <p>The Trustees answer and confesse the trust, and set forth the reason why they sell not, because of the disproportion of the value, but were willing to doe what the Court should direct, and <hi>Holl</hi> an<g ref="char:EOLhyphen"/>swered.</p>
+               <p>The cause was heard, and a Commission directed to Gentle<g ref="char:EOLhyphen"/>men of credit to examine the values of the Lands, the Debts, and In<g ref="char:EOLhyphen"/>cumbrances, and to procure a Purchasor.</p>
+               <p>Who by force of the Commission, examine and certifie the great charges, and values, and that in respect of the Incumbrances, they could not procure a purchasor; And</p>
+               <p>The 25. of <hi>April,</hi> 3. <hi>Car.</hi> It was decreed that the Lands should be sold by the Trustees, and the Decree is inrolled 11▪ of <hi>May</hi> fol<g ref="char:EOLhyphen"/>lowing.</p>
+               <p>There was a Reference to a Judge to examine the values and debts, and to thinke of a course whereby the trust might bee performed, and the Decree be executed.</p>
+               <p>The Judge certifies 4000 li. the best value, and that <hi>Smith,</hi> and <hi>Holl</hi> agreed to purchase, and certifies how the money should be paid, and his certificate is confirmed.</p>
+               <p>In <hi>Aug.</hi> 31. 4 <hi>Car.</hi> The Trustees convey to <hi>Aldridge, Foun<g ref="char:EOLhyphen"/>tain,</hi> and <hi>Southerton,</hi> &amp;c. persons trusted for <hi>Holl, Smith, Awcocke,</hi> and they pay the purchase money.</p>
+               <p>The estates for lives determine.</p>
+               <p>There was a Bill in the Court of Wards; And</p>
+               <p>A Bill in Chancery was preferred by the Heire of Sir <hi>Hen. Cleer</hi> a<g ref="char:EOLhyphen"/>gainst the Defendants, upon a pretence that <hi>Holl</hi> and <hi>Smith</hi> were par<g ref="char:EOLhyphen"/>ties to the procuring of the Deed, and gained the estate at an under<g ref="char:EOLhyphen"/>value and to have an accompt, and a re-assurance.</p>
+               <p>The Defendants set forth the truth of the Case and deny all fraud and practise.</p>
+               <p>The Cause comming to the hearing (and the Court not being full) it was decreed that the Defendants should account, and be reimbursed the mony that <hi>Holl</hi> and <hi>Smith</hi> had really disbursed or was due, and upon payment should re-assure; But upon security to answer meane
+<pb n="22" facs="tcp:49533:13"/>profits should keep the possession. Or if they refuse, then the Plain<g ref="char:EOLhyphen"/>tiffe upon security to pay, what upon account should bee due to the Defendants, shall have the possession.</p>
+               <p>The Defendants give Security.</p>
+               <p>Its reported by Mr. <hi>Rich</hi> 5000 li. due to the Defendants, and yet the security by them put in is discharged, and no security put in by the Plaintiffs, nor money paid, and yet the Plaintiffs are put into pos<g ref="char:EOLhyphen"/>session by the Order of the Court.</p>
+               <p>And a direction is given to the Referees that take the account, that the Defendants shall account for the profits received, during the continuance of the particular interests, purchased in 1624, and 1628. from Sir <hi>Edw. Cleer,</hi> and Dame <hi>Merriel Cleer</hi> Tenants for life.</p>
+               <p>The Defendants are Heires and Assignes of Purchasors that claime from the Trustees, under the Decree of the Court, made above twen<g ref="char:EOLhyphen"/>ty yeares before this last decree, and their contracts warranted by cer<g ref="char:EOLhyphen"/>tificate of a Judge and order of the Court.</p>
+               <p>The consideration they paid was as much as the lands were worth considering the incumbrances, charges and particular estates in being.</p>
+               <p>The decree and sale that was made 1628 were just to be done now, if things were now in the same condition as then they were.</p>
+               <p>Yet by the decree of the Court of Wards a third part was taken a<g ref="char:EOLhyphen"/>way during the Wards minority, which made the bargaine prejudici<g ref="char:EOLhyphen"/>all to the Purchasor, when as the value of the whole was but 4000 li. Yet after full age the plaintiffs kept possession of a third part.</p>
+               <p>And notwithstanding there is due 5000 li. and twice as much more upon a faire account (just liberty of examining witnesses being admit<g ref="char:EOLhyphen"/>ted) wil be found due to the Defendants, yet no mony is paid, nor secu<g ref="char:EOLhyphen"/>rity given; but possession of the whole is taken away contrary to the first and last Decree in the Case.</p>
+               <pb facs="tcp:49533:13"/>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
